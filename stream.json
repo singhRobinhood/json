@@ -3,12 +3,12 @@
     "stream": "Mechanical Engineering"
   },
   {
-    "stream": "Computer Science Engineering"
+    "stream1": "Computer Science Engineering"
     },
   {
-    "stream": "Biotechnology Engineering"
+    "stream2": "Biotechnology Engineering"
   },
   {
-    "stream": "Chemical Engineering"
+    "stream3": "Chemical Engineering"
   }
 ]
